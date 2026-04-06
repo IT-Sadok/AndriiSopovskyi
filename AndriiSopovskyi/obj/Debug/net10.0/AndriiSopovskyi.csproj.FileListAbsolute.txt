@@ -1,0 +1,14 @@
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.AssemblyInfoInputs.cache
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.AssemblyInfo.cs
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.csproj.CoreCompileInputs.cache
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/bin/Debug/net10.0/AndriiSopovskyi
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/bin/Debug/net10.0/AndriiSopovskyi.deps.json
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/bin/Debug/net10.0/AndriiSopovskyi.runtimeconfig.json
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/bin/Debug/net10.0/AndriiSopovskyi.dll
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/bin/Debug/net10.0/AndriiSopovskyi.pdb
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.dll
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/refint/AndriiSopovskyi.dll
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.pdb
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/AndriiSopovskyi.genruntimeconfig.cache
+/Users/andrii/RiderProjects/AndriiSopovskyi/AndriiSopovskyi/obj/Debug/net10.0/ref/AndriiSopovskyi.dll
